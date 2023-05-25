@@ -1,6 +1,6 @@
 <body>
   <div align="center">
-    <h1> Hi there, I'm Wajeeh Haider <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> <a href="href="https://github.com/Wajeeh-Haider""></h1>
+    <h1> Hi there, I'm Afzal Munir <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> <a href="href="https://github.com/Wajeeh-Haider""></h1>
   </div>
 <p align="center">
 <a href="https://github.com/Wajeeh-Haider"><img src="https://readme-typing-svg.herokuapp.com?lines=MERN+Stack+Developer;Full+Stack+Skill+Trainer;Front+End+Developer;Backend+Developer&center=true&width=500&height=50"></a>
@@ -110,11 +110,11 @@
  </h2>
 
 <p align="center">
-<a href="https://github.com/Wajeeh-Haider">
+<a href="https://github.com/hafiz1321">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wajeeh-Haider&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Wajeeh-haider&layout=compact&langs_count=8&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hafiz1321&layout=compact&langs_count=8&theme=dark"/>
 </a>
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Wajeeh-Haider&show_icons=true&locale=en&layout=demo&theme=dark" />
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=hafiz132r&show_icons=true&locale=en&layout=demo&theme=dark" />
 </p>
 </p>
 <br>
@@ -139,21 +139,21 @@
 
 ## 🐛Github Magic Game
 <p align="center">
-<img src="https://github.com/Wajeeh-Haider/Wajeeh-Haider/blob/output/github-contribution-grid-snake.svg" />
+<img src="https://github.com/hafiz1321/hafiz1321/blob/output/github-contribution-grid-snake.svg" />
 </p>
 <br>
 
 <h2 >🏆 GitHub Profile Trophy</h2>
 <p align="center">
-<a href="https://github.com/Wajeeh-Haider" align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Wajeeh-Haider&theme=matrix&column=8&margin-w=15&margin-h=15"/>
+<a href="https://github.com/hafiz1321" align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hafiz1321&theme=matrix&column=8&margin-w=15&margin-h=15"/>
 </a>
 </p>
 
 
 <p align="center"> 
   Views<br>
-  <img src="https://profile-counter.glitch.me/Wajeeh-Haider/count.svg" />
+  <img src="https://profile-counter.glitch.me/hafiz1321/count.svg" />
 </p>
 
 
